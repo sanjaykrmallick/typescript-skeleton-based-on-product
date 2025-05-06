@@ -30,7 +30,14 @@ Here’s a simple and smart folder structure you can follow 👇
  ✅ Reduces bugs and saves time later
 
 
+
 ✅ ** Road Map **
+
+![screencapture-media-licdn-dms-image-v2-D4D22AQFbZ3lcPGK4xw-feedshare-shrink-1280-B4DZaftVdKHEAk-0-1746436185316-2025-05-06-23_14_26](https://github.com/user-attachments/assets/dfbd9398-c5bb-46cd-b0f2-bbf4c7eda067)
+
+
+
+
 src/
 │
 ├── components/
@@ -97,7 +104,7 @@ src/
 │   ├── formatters.ts
 │   └── helpers.ts
 │
-├── styles/
+├── styles/                                                                                                                                                                                                                                            
 │   ├── variables.scss
 │   ├── global.scss
 │   └── mixins.scss
