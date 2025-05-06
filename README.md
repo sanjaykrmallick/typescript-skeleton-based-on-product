@@ -1,0 +1,1 @@
+# typescript-skeleton-based-on-product
